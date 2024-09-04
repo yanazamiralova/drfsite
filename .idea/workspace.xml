@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43616d0a-78c2-4718-a90e-e6a2cb98adb0" name="Default Changelist" comment="" />
+    <list default="true" id="43616d0a-78c2-4718-a90e-e6a2cb98adb0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drfsite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/drfsite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drfsite/drfsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/drfsite/drfsite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drfsite/women/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/drfsite/women/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drfsite/women/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/drfsite/women/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2laubOVGi4TCwYEBxWfiILVcB3s" />
   <component name="ProjectViewState">
@@ -15,6 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -27,5 +37,16 @@
       <updated>1725430578681</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
